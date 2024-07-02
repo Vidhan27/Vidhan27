@@ -10,8 +10,8 @@
 
 <hr>
 
-<div style="display: flex; justify-content: space-between;">
-    <img margin-right="100" src="https://github-readme-stats.vercel.app/api?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
+<div style="display: flex">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27&theme=dark&hide_border=false" alt="GitHub Streak" width="400"/>
 </div>
 
