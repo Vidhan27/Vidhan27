@@ -47,7 +47,9 @@
 # 📊 GitHub Stats:
 <hr>
 
-| ![Vidhan27 Github Stats](https://github-readme-stats.vercel.app/api?username=Vidhan27&show_icons=true&theme=radical) | ![Vidhan27GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27=radical)            
+| ![Vidhan27 Github Stats](https://github-readme-stats.vercel.app/api?username=Vidhan27&show_icons=true&theme=radical) | ![Vidhan27GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27=radical)  
+
+
 |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan27&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vidhan27&theme=radical&utcOffset=8) |
