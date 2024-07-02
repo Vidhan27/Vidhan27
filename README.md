@@ -6,27 +6,7 @@
 # 💫 My Thoughts:
 🔭 " A Good code is its own best documentation. "<br>👯 All my work is available on my Github<br>🤝 Portfolio : Coming soon<br>🌱 I’m currently learning new frameworks web development related<br>💬 Suggest me or Ask me anything Web Dev related
 
-# 📊 GitHub Stats:
 
-<hr>
-
-<div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27&theme=dark&hide_border=false" alt="GitHub Streak" style="margin-bottom: 20px; margin-right: 20px;" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Vidhan27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
 
