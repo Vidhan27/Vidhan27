@@ -3,7 +3,7 @@
 <h2 align="center">A Passionate Web Developer</h2>
 
 # 💫 My Thoughts:
-🔭 " A Good code is its own best documentation. "<br>👯 All my work is available on my Github<br>🤝 Portfolio : Coming soon<br>🌱 I’m currently learning<br>💬 Suggest me or Ask me anything Web Dev related
+🔭 " A Good code is its own best documentation. "<br>👯 All my work is available on my Github<br>🤝 Portfolio : Coming soon<br>🌱 I’m currently learning new frameworks web development related<br>💬 Suggest me or Ask me anything Web Dev related
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
