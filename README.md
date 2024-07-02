@@ -16,13 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=Vidhan27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 📊 GitHub Activity
 
-<hr>
-
-| ![divyaGrvgithub Github Stats](https://github-readme-stats.vercel.app/api?username=Vidhan27&show_icons=true&theme=radical) | ![divyaGrvgithub GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27&theme=radical)                                                                                                           |
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
