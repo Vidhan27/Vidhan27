@@ -45,9 +45,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr>
+
+| ![Vidhan27 Github Stats](https://github-readme-stats.vercel.app/api?username=Vidhan27&show_icons=true&theme=radical) | ![Vidhan27GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidhan27=radical)            
+|
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhan27&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vidhan27&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vidhan27&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vidhan27=2077)
+
+<!-- color=nord_dark -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vidhan27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
