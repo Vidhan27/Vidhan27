@@ -2,9 +2,11 @@
 **<h1 align="center">👋 Hello , Myself <a href="https://www.linkedin.com/in/vidhan-prajapati-a04a41255/" target="_blank">Vidhan Prajapati </a></h1>**
 <h2 align="center">A Passionate Web Developer</h2>
 
-<img align="right" alt="coding" width="300" height=auto src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
+
 
 # 💫 My Thoughts:
+
+<img align="right" alt="coding" width="300" height=auto src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 🔭 " A Good code is its own best documentation. "<br>👯 All my work is available on my Github<br>🤝 Portfolio : Coming soon<br>🌱 I’m currently learning new frameworks web development related<br>💬 Suggest me or Ask me anything Web Dev related
 
