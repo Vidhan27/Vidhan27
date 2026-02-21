@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="350" height="180" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
-🔭 " A Good code is its own best documentation. "<br>👯 All my work is available on my Github<br>🤝 Portfolio : <a href="https://portfolio-react-vidhan.vercel.app/">Vidhan Prajapati</a><br>🌱 I’m currently learning Data Science and Machine Learning<br>💬 Suggest me or Ask me anything Web Dev related
+🔭 " A Good code is its own best documentation. "<br>🤝 Portfolio : <a href="https://portfolio-react-vidhan.vercel.app/">Vidhan Prajapati</a><br>💬 Suggest me or Ask me anything Web Dev related
 <br>
 <br>
 <br>
